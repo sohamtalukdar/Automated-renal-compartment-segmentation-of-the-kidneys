@@ -9,33 +9,60 @@ Magnetic resonance imaging (MRI) has become increasingly important in the clinic
 <b>Fig.1 Schematic of the kidney showing the different compartments of the cortex and medulla</b>
 </figure>
 
+<br>
 
 <figure>
-<img src="https://user-images.githubusercontent.com/103217802/207950152-4411ae30-aa15-4b4d-9cae-5e1544c4b2e1.png"  style="width: 300px">
+<img src="https://user-images.githubusercontent.com/103217802/207950152-4411ae30-aa15-4b4d-9cae-5e1544c4b2e1.png"  style="width: 400px">
 <b>Fig. 2 Adjacent organs and skeletal muscle with MR signal similar to kidney</b>
 </figure>
 
+<br>
+
 <figure>
-<img src="https://user-images.githubusercontent.com/103217802/207958252-8e7534a3-5fc6-46a8-a4cf-4b97ef4ecf18.png"  style="width: 300px">
+<img src="https://user-images.githubusercontent.com/103217802/207958252-8e7534a3-5fc6-46a8-a4cf-4b97ef4ecf18.png"  style="width: 400px">
 <b>Fig. 3 A sample of MPRAGE(left) T1W(center) and T2W(Right) images</b>
 </figure>
 
+<br>
+
 <figure>
-<img src="https://user-images.githubusercontent.com/103217802/207962431-ca9213dc-b2ce-4794-a9eb-6933d95734aa.png"  style="width: 300px">
+<img src="https://user-images.githubusercontent.com/103217802/207962431-ca9213dc-b2ce-4794-a9eb-6933d95734aa.png"  style="width: 400px">
 <b>Fig. 4  (Left) shows an example MPRAGE image, (Right) the cortex and medulla masks generated
 using FAST</b>
 </figure>
 
-<img width="300" alt="Screen_Shot_2020-07-07_at_9 08 00_PM_rpNArED" src="https://user-images.githubusercontent.com/103217802/207964260-ef07b29c-e314-46ae-8138-f280811800a8.png">
 
+<br>
 
-<img width="300" alt="Screenshot 2022-12-16 at 02 20 12" src="https://user-images.githubusercontent.com/103217802/207964322-6dc94f87-1cee-43d9-be01-e8787f86d8fa.png">
+<figure>
+<img src="https://user-images.githubusercontent.com/103217802/207964260-ef07b29c-e314-46ae-8138-f280811800a8.png"  style="width: 400px">
+<b>Fig. 4  (Left) shows an example MPRAGE image, (Right) the cortex and medulla masks generated
+using FAST</b>
+</figure>
 
+<br>
 
-<img width="300" alt="Screenshot 2022-12-16 at 02 20 37" src="https://user-images.githubusercontent.com/103217802/207964403-8ea43f45-74ed-48a6-9a11-2bd7870bbb2d.png">
+<figure>
+<img src="https://user-images.githubusercontent.com/103217802/207964322-6dc94f87-1cee-43d9-be01-e8787f86d8fa.png"  style="width: 400px">
+<b>Fig. 4  (Left) shows an example MPRAGE image, (Right) the cortex and medulla masks generated
+using FAST</b>
+</figure>
 
+<br>
 
-<img width="300" alt="Screenshot 2022-12-16 at 02 21 00" src="https://user-images.githubusercontent.com/103217802/207964472-431bcd23-3fef-48c8-b7f5-878a18657de9.png">
+<figure>
+<img src="https://user-images.githubusercontent.com/103217802/207964403-8ea43f45-74ed-48a6-9a11-2bd7870bbb2d.png"  style="width: 500px">
+<b>Fig. 4  (Left) shows an example MPRAGE image, (Right) the cortex and medulla masks generated
+using FAST</b>
+</figure>
+
+<br>
+
+<figure>
+<img src="https://user-images.githubusercontent.com/103217802/207964472-431bcd23-3fef-48c8-b7f5-878a18657de9.png"  style="width: 500px">
+<b>Fig. 4  (Left) shows an example MPRAGE image, (Right) the cortex and medulla masks generated
+using FAST</b>
+</figure>
 
 
 
