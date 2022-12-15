@@ -26,4 +26,16 @@ Magnetic resonance imaging (MRI) has become increasingly important in the clinic
 using FAST</b>
 </figure>
 
+<img width="300" alt="Screen_Shot_2020-07-07_at_9 08 00_PM_rpNArED" src="https://user-images.githubusercontent.com/103217802/207964260-ef07b29c-e314-46ae-8138-f280811800a8.png">
+
+
+<img width="300" alt="Screenshot 2022-12-16 at 02 20 12" src="https://user-images.githubusercontent.com/103217802/207964322-6dc94f87-1cee-43d9-be01-e8787f86d8fa.png">
+
+
+<img width="300" alt="Screenshot 2022-12-16 at 02 20 37" src="https://user-images.githubusercontent.com/103217802/207964403-8ea43f45-74ed-48a6-9a11-2bd7870bbb2d.png">
+
+
+<img width="300" alt="Screenshot 2022-12-16 at 02 21 00" src="https://user-images.githubusercontent.com/103217802/207964472-431bcd23-3fef-48c8-b7f5-878a18657de9.png">
+
+
 
