@@ -3,4 +3,8 @@
 
 *NB: This project is a part of ongoing Application of Functional Renal MRI to improve the assessment of chronic kidney disease (AFiRM) study. The dataset used in this project contains MRI images of kidneys taken from live voluntary subjects.*
 
+[The report for this project can be found here](https://github.com/sohamtalukdar/Segmentation-of-Kidneys-in-MRI/blob/main/Report.pdf)
+
+
+
 
