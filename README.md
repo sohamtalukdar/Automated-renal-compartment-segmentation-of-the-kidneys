@@ -16,19 +16,5 @@
 * You can Download the Dataset from [here](https://github.com/sohamtalukdar/Automated-renal-compartment-segmentation-of-the-kidneys/tree/main/Dataset)
 * Code for dataset analsyis and mask generation you can find [here](https://github.com/sohamtalukdar/Automated-renal-compartment-segmentation-of-the-kidneys/blob/main/dataset_image.py)
 * Code for model execution you can find [here](https://github.com/sohamtalukdar/Automated-renal-compartment-segmentation-of-the-kidneys/blob/main/unet.py)
+* [FMRIB Automated Segmentation Tool](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FAST) was used to evaluate the dataset in 3D and for generating automated ground truth. 
 
-
-### Processing datasets
-
-First you need to collect and process the datasets, so run
-datasets/collect_datasets.py
-datasets/preprocess_hatexplain.py
-You may need a HuggingFace login to download the datasets using their API
-Training models
-To train models, the models/hyperparameter_sweep.py file can be called. This will iterate over the different model configs set out in that file.
-
-Otherwise, you can call each of the base files (e.g bert_with_attention_entropy.py) and adjust parameter settings inside that to change your model configs.
-
-The other files contain helper functions and structures to minimise the amount of code that clutters up the main files, in an effort to make the logic more readable.
-
-### Running Tests 
