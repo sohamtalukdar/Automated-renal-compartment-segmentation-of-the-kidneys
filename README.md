@@ -11,10 +11,12 @@
 
 ### Prerequesites
 
-Make sure you have Python > 3.9 and TF > 2.8 installed
-Navigate to the root of this repository
-You can Download the Dataset from [here]()
-When running the code you can directly use the 
+* Make sure you have Python > 3.9 and TF > 2.8 installed
+* Navigate to the root of this repository
+* You can Download the Dataset from [here]()
+* Code for dataset analsyis and mask generation you can find [here]()
+* Code for model execution you can find [here]()
+
 
 ### Processing datasets
 
