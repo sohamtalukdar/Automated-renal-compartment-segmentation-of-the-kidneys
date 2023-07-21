@@ -13,6 +13,14 @@ from src.models.unet import U_Net
 from src.dataset_util.preprocessing import load_data
 import yaml
 
+# GPU setup
+gpus = tf.config.list_physical_devices('GPU')
+if gpus:
+    for gpu in gpus:
+        tf.config.experimental.set_memory_growth(gpu, True)
+    # If you want to specify a specific GPU, uncomment the next line and specify the index of the GPU you want to use.
+    # tf.config.set_visible_devices(gpus[0], 'GPU')
+
 def load_config(config_path):
     with open(config_path, 'r') as file:
         config = yaml.safe_load(file)
