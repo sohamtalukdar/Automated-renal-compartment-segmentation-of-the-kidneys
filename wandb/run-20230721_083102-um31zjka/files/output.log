@@ -1,0 +1,422 @@
+
+Epoch 1/5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+76/76 [==============================] - 324s 4s/step - loss: 0.5966 - jacard_coef: 0.0367 - dice_coefficient: 0.0685 - accuracy: 0.9141 - val_loss: 0.8800 - val_jacard_coef: 0.0365 - val_dice_coefficient: 0.0503 - val_accuracy: 0.9767
+Epoch 2/5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+76/76 [==============================] - 364s 5s/step - loss: 0.2332 - jacard_coef: 0.0359 - dice_coefficient: 0.0874 - accuracy: 0.9809 - val_loss: 0.5239 - val_jacard_coef: 0.0365 - val_dice_coefficient: 0.0577 - val_accuracy: 0.9828
+Epoch 3/5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+76/76 [==============================] - 408s 5s/step - loss: 0.1648 - jacard_coef: 0.0377 - dice_coefficient: 0.1011 - accuracy: 0.9837 - val_loss: 0.2982 - val_jacard_coef: 0.0365 - val_dice_coefficient: 0.0695 - val_accuracy: 0.9847
+Epoch 4/5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+76/76 [==============================] - 339s 4s/step - loss: 0.1317 - jacard_coef: 0.0383 - dice_coefficient: 0.1070 - accuracy: 0.9854 - val_loss: 0.1858 - val_jacard_coef: 0.0365 - val_dice_coefficient: 0.0837 - val_accuracy: 0.9886
+Epoch 5/5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+76/76 [==============================] - 368s 5s/step - loss: 0.1057 - jacard_coef: 0.0345 - dice_coefficient: 0.1125 - accuracy: 0.9882 - val_loss: 0.1426 - val_jacard_coef: 0.0365 - val_dice_coefficient: 0.0910 - val_accuracy: 0.9885
+1/1 [==============================] - 8s 8s/step - loss: 0.1426 - jacard_coef: 0.0331 - dice_coefficient: 0.1141 - accuracy: 0.9885
+1/1 [==============================] - 8s 8s/step
+Mean IoU =  0.5708989
+Mean IoU for slice 0 =  0.485769
+Mean IoU for slice 1 =  0.586115
+Mean IoU for slice 2 =  0.7348081
+Mean IoU for slice 3 =  1.0
+Mean IoU for slice 4 =  0.5850306
+Mean IoU for slice 5 =  1.0
+Mean IoU for slice 6 =  1.0
+Mean IoU for slice 7 =  1.0
+Mean IoU for slice 8 =  1.0
+Mean IoU for slice 9 =  1.0
+Mean IoU for slice 10 =  1.0
+Mean IoU for slice 11 =  1.0
+Mean IoU for slice 12 =  0.57242954
+Mean IoU for slice 13 =  1.0
+Mean IoU for slice 14 =  0.6174574
+Mean IoU for slice 15 =  0.5246956
+Mean IoU for slice 16 =  0.6275678
+[[6.1154e+04 1.8700e+02 0.0000e+00]
+ [1.4700e+02 1.9420e+03 2.0600e+02]
+ [4.1000e+01 1.1220e+03 7.3700e+02]]
+IoU for class 1 is: 0.9939053
+IoU for class 2 is: 0.5388457
+IoU for class 3 is: 0.34995252
+1/1 [==============================] - 7s 7s/step - loss: 0.1426 - jacard_coef: 0.0331 - dice_coefficient: 0.1141 - accuracy: 0.9885
+1/1 [==============================] - 8s 8s/step
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).

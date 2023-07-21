@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "c:\Users\soham\Automated-renal-compartment-segmentation-of-the-kidneys\main.py", line 44, in <module>
+    model = U_Net(input_shape)
+            ^^^^^^^^^^^^^^^^^^
+  File "c:\Users\soham\Automated-renal-compartment-segmentation-of-the-kidneys\src\models\unet.py", line 33, in U_Net
+    input1 = Input(shape=input_shape)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\soham\anaconda3\Lib\site-packages\keras\src\utils\traceback_utils.py", line 70, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "C:\Users\soham\anaconda3\Lib\site-packages\tensorflow\python\framework\tensor_shape.py", line 217, in __init__
+    raise TypeError(
+TypeError: Dimension value must be integer or None or have an __index__ method, got value ''('' with type '<class 'str'>'

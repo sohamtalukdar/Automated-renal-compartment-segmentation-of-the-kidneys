@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "c:\Users\soham\Automated-renal-compartment-segmentation-of-the-kidneys\main.py", line 30, in <module>
+    x_data, y_data = load_data("Dataset/")
+                     ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\soham\Automated-renal-compartment-segmentation-of-the-kidneys\src\dataset_util\preprocessing.py", line 56, in load_data
+    image = nib.load(dir + 'Masks_T1/' + f)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\soham\anaconda3\Lib\site-packages\nibabel\loadsave.py", line 117, in load
+    raise ImageFileError(f'Cannot work out file type of "{filename}"')
+nibabel.filebasedimages.ImageFileError: Cannot work out file type of "Dataset/Masks_T1/.DS_Store"

@@ -1,0 +1,50 @@
+{
+    "os": "Windows-10-10.0.22621-SP0",
+    "python": "3.11.3",
+    "heartbeatAt": "2023-07-21T01:57:04.312172",
+    "startedAt": "2023-07-21T01:57:02.852364",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "c:\\Users\\soham\\Automated-renal-compartment-segmentation-of-the-kidneys\\main.py",
+    "codePath": "main.py",
+    "git": {
+        "remote": "https://github.com/sohamtalukdar/Automated-renal-compartment-segmentation-of-the-kidneys.git",
+        "commit": "da2b51a93b575dad875e931859fffe71f401927b"
+    },
+    "email": null,
+    "root": "C:/Users/soham/Automated-renal-compartment-segmentation-of-the-kidneys",
+    "host": "DESKTOP-JBMBUJO",
+    "username": "soham",
+    "executable": "C:\\Users\\soham\\anaconda3\\python.exe",
+    "cpu_count": 4,
+    "cpu_count_logical": 4,
+    "cpu_freq": {
+        "current": 3600.0,
+        "min": 0.0,
+        "max": 3600.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3600.0,
+            "min": 0.0,
+            "max": 3600.0
+        }
+    ],
+    "disk": {
+        "total": 129.74865341186523,
+        "used": 75.99145126342773
+    },
+    "gpu": "NVIDIA GeForce GTX 1660 SUPER",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce GTX 1660 SUPER",
+            "memory_total": 6442450944
+        }
+    ],
+    "memory": {
+        "total": 15.943431854248047
+    }
+}

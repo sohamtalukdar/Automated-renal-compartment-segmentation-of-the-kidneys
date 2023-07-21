@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "c:\Users\soham\Automated-renal-compartment-segmentation-of-the-kidneys\main.py", line 43, in <module>
+    data = load_data("Dataset/")
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\soham\Automated-renal-compartment-segmentation-of-the-kidneys\main.py", line 40, in load_data
+    return x_data, y_data
+           ^^^^^^
+NameError: name 'x_data' is not defined

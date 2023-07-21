@@ -1,0 +1,20 @@
+# Weights and Biases configuration
+'wandb':
+  project_name: "Renal Segmentation using Convolutional Neural Network"
+  entity: "sohamt09"
+  wandb_api_key: "4a711c08cbaa05faa44dd74aa6c768df75a836aa"
+
+# Data and model configuration
+data:
+  dataset_path: "Dataset/"
+  batch_size: 2
+
+model:
+  input_shape: (256, 256, 1)
+  epochs: 5
+  learning_rate: 1e-4
+
+# Custom metrics configuration
+metrics:
+  smooth: 1
+  phi: null

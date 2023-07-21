@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "c:\Users\soham\Automated-renal-compartment-segmentation-of-the-kidneys\main.py", line 43, in <module>
+    x_train, y_train, x_valid, y_valid = load_data("Dataset/")
+                                         ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\soham\Automated-renal-compartment-segmentation-of-the-kidneys\main.py", line 40, in load_data
+    return x_train, y_train, x_valid, y_valid
+           ^^^^^^^
+NameError: name 'x_train' is not defined
