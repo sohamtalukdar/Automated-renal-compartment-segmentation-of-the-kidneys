@@ -1,5 +1,0 @@
-Traceback (most recent call last):
-  File "c:\Users\soham\Automated-renal-compartment-segmentation-of-the-kidneys\main.py", line 44, in <module>
-    model = create_model(input_shape, config['model']['learning_rate'])  # Update this line
-            ^^^^^^^^^^^^
-NameError: name 'create_model' is not defined

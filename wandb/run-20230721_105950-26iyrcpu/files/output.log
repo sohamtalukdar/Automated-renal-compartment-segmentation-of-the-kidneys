@@ -1,8 +1,0 @@
-Traceback (most recent call last):
-  File "c:\Users\soham\Automated-renal-compartment-segmentation-of-the-kidneys\main.py", line 44, in <module>
-    model = U_Net(input_shape)
-            ^^^^^^^^^^^^^^^^^^
-  File "c:\Users\soham\Automated-renal-compartment-segmentation-of-the-kidneys\src\models\unet.py", line 33, in U_Net
-    input1 = Input(shape=input_shape)
-                         ^^^^^^^^^^^
-NameError: name 'input_shape' is not defined

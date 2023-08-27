@@ -1,8 +1,0 @@
-Traceback (most recent call last):
-  File "c:\Users\soham\Automated-renal-compartment-segmentation-of-the-kidneys\main.py", line 30, in <module>
-    x_data, y_data = load_data("Dataset/")
-                     ^^^^^^^^^^^^^^^^^^^^^
-  File "c:\Users\soham\Automated-renal-compartment-segmentation-of-the-kidneys\src\dataset_util\preprocessing.py", line 51, in load_data
-    for f in sorted(os.listdir(dir + 'GroundTruth/')):
-                    ^^
-NameError: name 'os' is not defined

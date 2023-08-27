@@ -1,5 +1,0 @@
-Traceback (most recent call last):
-  File "c:\Users\soham\Automated-renal-compartment-segmentation-of-the-kidneys\main.py", line 30, in <module>
-    x_train, x_valid, y_train, y_valid = load_data("Dataset/")
-    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-ValueError: not enough values to unpack (expected 4, got 2)

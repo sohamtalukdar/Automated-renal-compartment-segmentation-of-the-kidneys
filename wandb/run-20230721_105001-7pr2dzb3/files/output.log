@@ -1,8 +1,0 @@
-Traceback (most recent call last):
-  File "c:\Users\soham\Automated-renal-compartment-segmentation-of-the-kidneys\main.py", line 47, in <module>
-    model = create_model(input_shape, config['model']['learning_rate'])
-            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "c:\Users\soham\Automated-renal-compartment-segmentation-of-the-kidneys\src\models\models.py", line 4, in create_model
-    model = U_Net(input_shape=input_shape)
-            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-TypeError: U_Net() got an unexpected keyword argument 'input_shape'

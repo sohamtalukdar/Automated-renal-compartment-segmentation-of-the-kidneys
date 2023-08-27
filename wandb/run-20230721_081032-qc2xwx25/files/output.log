@@ -1,5 +1,0 @@
-Traceback (most recent call last):
-  File "c:\Users\soham\Automated-renal-compartment-segmentation-of-the-kidneys\main.py", line 51, in <module>
-    model.compile(optimizer= Nadam(learning_rate = 1e-4),
-                            ^^^^^
-NameError: name 'Nadam' is not defined

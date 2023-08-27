@@ -1,7 +1,0 @@
-
-Error loading .DS_Store: Cannot work out file type of "Dataset/Masks_T1/.DS_Store"
-Traceback (most recent call last):
-  File "c:\Users\soham\Automated-renal-compartment-segmentation-of-the-kidneys\main.py", line 32, in <module>
-    x_data, y_data = load_data("Dataset/")
-    ^^^^^^^^^^^^^^
-ValueError: too many values to unpack (expected 2)
